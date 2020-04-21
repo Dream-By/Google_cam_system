@@ -1,0 +1,2 @@
+rootProject.name='Google_cam_system'
+include ':app'
